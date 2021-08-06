@@ -11,3 +11,5 @@ TensorFlow is a free and open-source software library for machine learning. It c
 
 TensorFlow Extended(TFX)
 --
+TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines. 
+
