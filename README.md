@@ -15,5 +15,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 A TFX pipeline is a sequence of components that implement an ML pipeline which is specifically designed for scalable, high-performance machine learning tasks. Components are built using TFX libraries which can also be used individually.
 
+
 TensorFlow Hub
 --
+TensorFlow Hub is a repository of trained machine learning models ready for fine-tuning and deployable anywhere. Reuse trained models like BERT and Faster R-CNN with just a few lines of code.
