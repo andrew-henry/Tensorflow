@@ -9,6 +9,9 @@
 TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. Tensorflow is a symbolic math library based on dataflow and differentiable programming.
 
 
+Why TensorFlow -  TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications
+
+
 TensorFlow Extended(TFX)
 --
 TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines. 
